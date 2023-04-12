@@ -1,0 +1,33 @@
+{
+  "name": "img2lcd-bin",
+  "main": "./img2bin.js",
+  "version": "0.0.1",
+  "description": "The binary BIN file of the picture converted to the LCD screen",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "img",
+    "cld",
+    "img2cld",
+    "img2bin"
+  ],
+  "author": {
+    "name": "Yao hengfeng",
+    "email": "1921934563@qq.com",
+    "url": "https://github.com/yhf98"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yhf98/img2lcd-bin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yhf98/img2lcd-bin/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "jimp": "^0.22.7",
+    "mime": "^1.3.6",
+    "pngparse": "^2.0.1"
+  }
+}
