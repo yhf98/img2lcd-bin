@@ -2,7 +2,7 @@
  * @Author: yaohengfneg 1921934563@qq.com
  * @Date: 2023-09-07 21:06:01
  * @LastEditors: yaohengfneg 1921934563@qq.com
- * @LastEditTime: 2023-09-08 00:02:48
+ * @LastEditTime: 2023-09-08 00:18:28
  * @FilePath: \img2lcd-bin\img2bin.js
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
  */
@@ -14,8 +14,8 @@
  * @FilePath: \img-base64-lcd\img2bin.js
  * @Description: img2bin.js
  */
-const img2lcd = require('./lib/img2lcd')
-const { generateToB } = require("./lib/common")
+const img2lcd = require('../lib/img2lcd')
+const { generateToB } = require("../lib/common")
 
 /**
  * 

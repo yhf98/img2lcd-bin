@@ -6,7 +6,7 @@
  * @FilePath: \img-base64-lcd\test.js
  * @Description: test.js
  */
-const bin = require('./img2bin.js')
+const bin = require('./test/img2bin.js')
 
 let uname = './output/ttt.bin'
 
